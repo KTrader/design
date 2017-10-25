@@ -1,4 +1,4 @@
-This is a quick document to describe the goals the trading platform product.  First and foremost, this platform is not meant for HFT. 
+This is a quick document to describe the goals the trading platform product.
 
 # Goals:
 * Architecture a system from beginning to end
