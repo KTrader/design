@@ -6,6 +6,7 @@ This is a quick document to describe the goals the trading platform product.
 * Demonstrate understanding of message buses
 * Learn Kotlin regardless of whether or not it is an appropriate language for a trading system
 * Deeper understanding of Kafka, Avro, and the Schema Registry
+* Reactive / Streaming end to end
 * A project with clearly defined boundaries so I can actually finish it and measure my progress.
 
 # Non-Goals:
