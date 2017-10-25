@@ -1,4 +1,4 @@
-A stream of conciousness overview of the trading platform.
+A stream of consciousness overview of the trading platform.
 
 # Summary
 The message bus, Kafka, will be used as a separation of concerns for all pieces of the architecture.
